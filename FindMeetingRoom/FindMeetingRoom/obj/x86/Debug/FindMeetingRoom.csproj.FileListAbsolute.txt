@@ -1,0 +1,11 @@
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\FindMeetingRoom.exe
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\FindMeetingRoom.pdb
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\obj\x86\Debug\FindMeetingRoom.Form1.resources
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\obj\x86\Debug\FindMeetingRoom.Properties.Resources.resources
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\obj\x86\Debug\FindMeetingRoom.csproj.GenerateResource.Cache
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\obj\x86\Debug\FindMeetingRoom.exe
+C:\Official\VSReferences\FindMeetingRoom\FindMeetingRoom\obj\x86\Debug\FindMeetingRoom.pdb
