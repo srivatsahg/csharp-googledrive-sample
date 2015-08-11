@@ -44,3 +44,6 @@ C:\Official\VSReferences\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.csproj.Gene
 C:\Official\VSReferences\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.exe
 C:\Official\VSReferences\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.pdb
 C:\Official\VSReferences\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.csprojResolveAssemblyReference.cache
+C:\Official\VSReferences\GitHub\GoogleDriveFiles\bin\Debug\GoogleDriveFiles.exe.config
+C:\Official\VSReferences\GitHub\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.exe
+C:\Official\VSReferences\GitHub\GoogleDriveFiles\obj\Debug\GoogleDriveFiles.pdb

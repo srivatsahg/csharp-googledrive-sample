@@ -1,36 +1,48 @@
-﻿using System;
+﻿#region Author info
+/*
+ * Author   :   Srivatsa G. Haridas
+ * Version  :   v1.0
+ * Remarks  :   Retrieves list of files stored on Google Drive
+ */
+#endregion
+
+#region Namespaces
+using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Drive.v2;
 using Google.Apis.Drive.v2.Data;
 using Google.Apis.Services;
 using Google.Apis.Util.Store;
+#endregion
 
 namespace GoogleDriveFiles
 {
     public partial class Form1 : Form
     {
-        // Authenticate Oauth2
+        #region OAuth
+
         String CLIENT_ID = "137693713126-mimsg82hmi7nkrq49pa64mqhb5nmhrlk.apps.googleusercontent.com";
         String CLIENT_SECRET = "-OmOEHgyoLNn6CUxYuew5_ZX";
+
+        #endregion OAuth
+
+        #region Members 
         string[] scopes = new string[] { DriveService.Scope.Drive,
                                  DriveService.Scope.DriveFile};
 
         private UserCredential credential = null;
-        
+        #endregion
+
+        #region Constructor
         public Form1()
         {
             InitializeComponent();
         }
+        #endregion
 
         /// <summary>
         /// 
