@@ -25,8 +25,8 @@ namespace GoogleDriveFiles
     {
         #region OAuth
 
-        String CLIENT_ID = "137693713126-mimsg82hmi7nkrq49pa64mqhb5nmhrlk.apps.googleusercontent.com";
-        String CLIENT_SECRET = "-OmOEHgyoLNn6CUxYuew5_ZX";
+        String CLIENT_ID = "your client-id from google api goes here";
+        String CLIENT_SECRET = "your client-secret key received from google api goes here";
 
         #endregion OAuth
 
